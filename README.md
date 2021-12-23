@@ -12,6 +12,6 @@ And yeah don't forget to leave feedback at the bottom of the page!
 
 [HERE](https://alstonf.github.io/Weather-App/)
 
-### The UI:
 
-<img src="The UI.png" alt="UI">
+
+
