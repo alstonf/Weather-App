@@ -9,7 +9,8 @@ And yeah don't forget to leave feedback at the bottom of the page!
 ### Note that this works best with chromium based browsers or Safari!
 
 ### Link to the Output:
-https://alstonf/Weather-App.github.io
+
+[HERE](https://alstonf.github.io/Weather-App/)
 
 ### The UI:
 
