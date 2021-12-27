@@ -8,7 +8,7 @@ A weather app which shows the current weather of the city entered. The UI is bea
 
 ### Link to the Output:
 
-[HERE](https://alstonf.github.io/Weather-App/)
+# [CLICK HERE](https://alstonf.github.io/Weather-App/)
 
 
 
